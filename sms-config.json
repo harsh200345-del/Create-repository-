@@ -1,0 +1,9 @@
+{
+  "provider": "fast2sms",
+  "fast2smsApiKey": "kwBlwPe4TGWFDlu26YkhmvvYQkzCq6lEEarv3WiHV8fAkgnVwP0FzZJTBSPRtjJXKRVR1YVT8gRJLrnJ",
+  "twilio": {
+    "accountSid": "",
+    "authToken": "",
+    "fromPhone": ""
+  }
+}

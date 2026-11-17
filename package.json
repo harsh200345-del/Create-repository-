@@ -1,0 +1,19 @@
+{
+  "name": "campus-share-rkgit",
+  "version": "1.0.0",
+  "description": "Campus Share: P2P Rental Platform for RKGIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "rkgit",
+    "p2p-rental",
+    "campus-share"
+  ],
+  "author": "Harsh Mani Pandey",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
